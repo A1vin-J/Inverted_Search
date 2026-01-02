@@ -1,0 +1,3 @@
+Hi hello !
+I'm Alvin J, Embedded engineering trainee @Emertxe
+Skills - C/C++, Linux basics, Data structures.
